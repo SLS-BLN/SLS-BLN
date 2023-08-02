@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently attending a bootcamp in web development<br>📺 I'm particularly interested in the integration of video<br>🏁 I'm learning React and have understood the key concepts<br>❓ Ask me about content creation. <br>🏄‍♂️ Current challenge: 100 push-ups a day<br>
+🚀 I'm currently improving my SAPUI5 skills<br>📺 I'm particularly interested in the integration of video<br>🏁 I'm learning React and have understood the key concepts<br>❓ Ask me about content creation. <br>🏄‍♂️ Current challenge: 100 push-ups a day<br>
 
 
 ## 🌐 Socials:
