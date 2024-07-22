@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently improving my React and JavaScript skills<br>📺 I'm particularly interested in Local First development<br>🏁 I'm learning SQL and have understood the key concepts<br>❓ Ask me about video and content creation. <br>🏄‍♂️ Current challenge: 50 push-ups a day<br>
+🚀 I'm currently improving my React and JavaScript skills.<br>📺 I'm particularly interested in Local First development.<br>🏁 I'm learning SQL and have understood the key concepts.<br>❓ Ask me about video and content creation. <br>🏄‍♂️ Current challenge: 50 push-ups a day.<br>
 
 
 ## 🌐 Socials:
